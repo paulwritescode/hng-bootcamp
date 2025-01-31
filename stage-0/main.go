@@ -37,7 +37,7 @@ func encodeJson() []byte {
 	json_slug := Slug{
 		Email:            "kinyattipaul@gmail.com",
 		Current_datetime: this_time,
-		Github_url:       "https://github.com/paulwritescode/hng-bootcamp",
+		Github_url:       "https://github.com/paulwritescode/json-api-server",
 	}
 
 	finJson, err := json.MarshalIndent(json_slug, "", "  ")
