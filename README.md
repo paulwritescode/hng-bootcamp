@@ -57,9 +57,9 @@ The response is in JSON format and includes the following fields:
 
 ```json
 {
-  "email": "kinyattipaul@gmail.com",
+  "email": "<user>@gmail.com",
   "current_datetime": "2025-01-31T20:30:00Z",
-  "github_url": "https://github.com/paulwritescode/hng-bootcamp"
+  "github_url": "https://github.com/<user>/hng-bootcamp"
 }
 ```
 
